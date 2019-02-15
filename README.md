@@ -1,2 +1,2 @@
-## eat-with-me
-#app for finding company for dinners and other activities
+# eat-with-me
+app for finding company for dinners and other activities
